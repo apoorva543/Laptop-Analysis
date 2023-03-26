@@ -4,4 +4,4 @@ This is a data analysis project using Python. This repository contains the datas
 ## Use
 The analysis of the above data will help in making decisions regarding which laptop to purchase based on the different specifications and other details about the laptops. 
 ## Details of the project
-The project is divided essentially into two parts. The first part contains a dataset cleaning and useful feature extraction. The second part of the project shows the visualization of different insights which can be gathered from the dataset. The visualization is done hoping that it would help conclude laptop purchase.
+The project is divided essentially into two parts. The first part contains dataset cleaning and feature extraction. The second part of the project focuses on forming and visualizing insights which can be produced from the dataset. The visualization is done hoping that it would provide users with all the options and metrics for their laptop purchase.
