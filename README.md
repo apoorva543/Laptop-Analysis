@@ -1,6 +1,8 @@
 # Laptop-Analysis
 ## Input details
 This is a data analysis project using Python. This repository contains the dataset regarding laptops listed on Flipkart. The given dataset includes a variety of information regarding the laptops like price, processors, discount and other specifications. 
+## Dataset Source
+https://www.kaggle.com/datasets/anas123siddiqui/laptops
 ## Use
 The analysis of the above data will help in making decisions regarding which laptop to purchase based on the different specifications and other details about the laptops. 
 ## Details of the project
